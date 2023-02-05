@@ -221,7 +221,7 @@ form input{
         align-items: center;
     }
     .card-container li{
-        max-width: 100%;
+        max-width: 100%;    
     }
     
     .img-container-designer {
@@ -229,7 +229,6 @@ form input{
         flex-direction: column;
     }
     .card-container ul{
-        padding: 10px;
         display: inline-table;
     }
     
